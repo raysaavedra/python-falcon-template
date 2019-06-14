@@ -1,0 +1,8 @@
+/venv/*
+*.pyc
+.DS_Store
+
+local_settings.*
+
+*.lock
+*.db
